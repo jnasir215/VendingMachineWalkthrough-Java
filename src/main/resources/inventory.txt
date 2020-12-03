@@ -1,0 +1,4 @@
+A1|Frito Lay|Chips|1.29
+A2|Nestle Crunch|Candy|0.75
+A3|Rhino Chew|Gum|0.35
+A4|Fruit Punch|Drink|1.49
